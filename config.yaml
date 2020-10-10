@@ -1,0 +1,14 @@
+baseURL: "https://daniel-livingston.com"
+languageCode: "en-us"
+title: "DANIEL LIVINGSTON"
+pygmentsstyle: 'monokai'
+paginate: 6
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+taxonomies:
+  author: authors
