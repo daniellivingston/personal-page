@@ -1,5 +1,8 @@
 # Novela settings
+baseURL = "https://daniel-livingston.com/"
 theme = "novela"
+languageCode = "en-us"
+title = "welcome to: daniel-livingston.com"
 
 paginate = 6
 
