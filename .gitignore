@@ -1,0 +1,6 @@
+# Hugo stuff
+public/
+resources/
+
+# System stuff
+.DS_Store
