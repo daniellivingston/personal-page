@@ -4,3 +4,6 @@ resources/
 
 # System stuff
 .DS_Store
+
+# Internal
+internal/
