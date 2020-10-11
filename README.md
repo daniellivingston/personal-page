@@ -12,3 +12,9 @@ To build:
 
 See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 ```
+
+### Inspiration
+
+* [Novela (original theme)](https://github.com/forestryio/hugo-theme-novela)
+
+* [Paula Rusu (logo font; Sk-Modernist)](http://paularusu.com/)
