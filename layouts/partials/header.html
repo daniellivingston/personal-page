@@ -7,10 +7,14 @@
     <div class="nav-controls">
       <button id="copyButton" class="icon-wrapper">
         {{ partial "icons/ui/link.html" . }}
-        <div id="toolTip" class="tool-tip " >
-            copied hhh
+        <div id="toolTip" class="tool-tip" >
+            copied
         </div>
-        <input id="copyText" style="opacity: 0;" type="text" class="tool-tip " />
+        <input id="copyText" style="opacity: 0;" type="text" class="tool-tip" />
+      </button>
+
+      <button id="githubButton" class="icon-wrapper" type="button" onclick="location.href='https://github.com/daniellivingston'">
+        {{ partial "icons/ui/github-header.html" . }}
       </button>
 
       <button id="themeColorButton" class="icon-wrapper"> 
