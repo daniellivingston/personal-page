@@ -1,5 +1,5 @@
 <Section class="section">
-  <div class="nav-container">
+  <div class="nav-container" style="padding-bottom: 6px; border-bottom: 2px solid var(--horizontalRule);">
     <a class="logo-link" href="/">
       {{ partial "icons/ui/logo.html" . }}
       <span class="header-hidden">Navigate back to the homepage</span>
@@ -33,7 +33,6 @@
       </button>
     </div>
 </div>
-<hr color="#000" width="100%" style="max-width: 100%; margin: 6px auto; height: 2px; opacity: 50%; --secondary: #fff">
 </Section>
 
 {{ $script := resources.Get "js/toggleLogos.js" }}
