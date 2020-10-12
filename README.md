@@ -22,3 +22,8 @@ See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 ### TODO
 
 * Add [`Blog -----`](http://jsfiddle.net/myajouri/pkm5r/)
+
+* Make sure that blog posts accurately mimic [this](https://novela.narative.co/Understanding-the-Gatsby-lifecycle-with-Narative)
+
+* Make `<hr/>` work with dark mode + maybe add a gradient to it
+  * There is an `<hr/>` on the blog posts and footer. Copy that style?

@@ -2,17 +2,14 @@
 baseURL = "https://daniel-livingston.com/"
 theme = "novela"
 languageCode = "en-us"
-title = "welcome to: daniel-livingston.com"
+title = "Daniel Livingston"
 
 paginate = 6
 
 [social]
-twitter= "https://twitter.com/forestryio"
-github= "https://github.com/forestryio/novela-hugo-starter"
-linkedin= "https://www.linkedin.com/company/forestry.io"
+github = "https://github.com/forestryio/novela-hugo-starter"
+linkedin = "https://www.linkedin.com/company/forestry.io"
 instagram = "#"
-dribbble = "#"
-youtube = "#"
 
 [taxonomies]
 author = "authors"
