@@ -18,3 +18,7 @@ See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 * [Novela (original theme)](https://github.com/forestryio/hugo-theme-novela)
 
 * [Paula Rusu (logo font; Sk-Modernist)](http://paularusu.com/)
+
+### TODO
+
+* Add [`Blog -----`](http://jsfiddle.net/myajouri/pkm5r/)
