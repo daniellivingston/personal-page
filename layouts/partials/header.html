@@ -6,8 +6,12 @@
     </a>
     <div class="nav-controls">
 
-      <button id="aboutButton" class="icon-wrapper" type="button" onclick="location.href='post/a-test/'">
+      <button id="aboutButton" class="icon-wrapper" type="button" onclick="location.href='/about'">
         {{ partial "icons/ui/about.html" . }}
+      </button>
+
+      <button id="blogButton" class="icon-wrapper" type="button" onclick="location.href='/post'">
+        {{ partial "icons/ui/blog.html" . }}
       </button>
 
       <button id="githubButton" class="icon-wrapper" type="button" onclick="location.href='https://github.com/daniellivingston'">

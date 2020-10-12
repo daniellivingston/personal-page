@@ -27,3 +27,11 @@ See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 
 * Make `<hr/>` work with dark mode + maybe add a gradient to it
   * There is an `<hr/>` on the blog posts and footer. Copy that style?
+
+* Change the favicon
+
+* Is "copy" really necessary? Replace with "blog"
+
+* Add tooltips to all menu bar items
+
+* Add RSS feed?
