@@ -1,4 +1,19 @@
-.epicpoggersmoment {
-    background-color: red;
-    color: red;
+.article-meta {
+    margin: auto;
+}
+
+.article-hero-subheading {
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 1.3em;
+}
+
+.horizontal-rule {
+    padding-bottom: 6px; 
+    border-bottom: 1.5px solid var(--horizontalRule);
+}
+
+.article-header {
+    text-align: center;
 }
