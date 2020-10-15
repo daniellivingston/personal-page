@@ -71,12 +71,13 @@ document.getElementById("githubButton").addEventListener("mouseover", () => {
   displayToolTip("toolTipGithub"); 
 });
 
-  function displayToolTip(toolTipID){
-    let toolTip2 = document.getElementById(toolTipID);
-    toolTip2.style.animationName = "pan-toolbar";
+function displayToolTip(toolTipID){
+    let toolTip = document.getElementById(toolTipID);
+    toolTip.style.animationName = "pan-toolbar";
 
     setTimeout(function(){
-         toolTip2.style.removeProperty('animation-name');
+         toolTip.style.removeProperty('animation-name');
     }, 2000);
 }
+
 </script>
