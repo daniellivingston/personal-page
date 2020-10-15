@@ -19,6 +19,10 @@ See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 
 * [Paula Rusu (logo font; Sk-Modernist)](http://paularusu.com/)
 
+* Personal Blogs
+  * [Outseta](https://www.outseta.com/blog)
+  * [Matt Mayes](https://mattmayes.com/)
+
 ### TODO
 
 * Add [`Blog -----`](http://jsfiddle.net/myajouri/pkm5r/)

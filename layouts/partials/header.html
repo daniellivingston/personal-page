@@ -10,14 +10,30 @@
 
       <button id="aboutButton" class="icon-wrapper" type="button" onclick="location.href='/about'">
         {{ partial "icons/ui/about.html" . }}
+        <div id="toolTipAbout" class="tool-tip" >
+            About
+        </div>
       </button>
 
       <button id="blogButton" class="icon-wrapper" type="button" onclick="location.href='/post'">
         {{ partial "icons/ui/blog.html" . }}
+        <div id="toolTipBlog" class="tool-tip" >
+            Blog
+        </div>
+      </button>
+
+      <button id="projectsButton" class="icon-wrapper" type="button" onclick="location.href='/projects'">
+        {{ partial "icons/ui/projects.html" . }}
+        <div id="toolTipProjects" class="tool-tip" >
+            Projects
+        </div>
       </button>
 
       <button id="githubButton" class="icon-wrapper" type="button" onclick="location.href='https://github.com/daniellivingston'">
         {{ partial "icons/ui/github-header.html" . }}
+        <div id="toolTipGithub" class="tool-tip" >
+            GitHub
+        </div>
       </button>
 
       <button id="copyButton" class="icon-wrapper">
