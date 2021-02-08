@@ -22,6 +22,8 @@ See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 * Personal Blogs
   * [Outseta](https://www.outseta.com/blog)
   * [Matt Mayes](https://mattmayes.com/)
+  * [graphics](https://www.gfx.dev/python-for-feature-film/)
+  * [Amos](https://fasterthanli.me)
 
 ### TODO
 

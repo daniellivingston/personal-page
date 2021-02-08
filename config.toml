@@ -7,9 +7,12 @@ title = "Daniel Livingston"
 paginate = 6
 
 [social]
-github = "https://github.com/forestryio/novela-hugo-starter"
-linkedin = "https://www.linkedin.com/company/forestry.io"
-instagram = "#"
+github = "https://github.com/daniellivingston"
+linkedin = "https://www.linkedin.com/in/danielrlivingston/"
+instagram = "https://www.instagram.com/liv.ing.ston/"
+#telegram = "sgsdfgs"
+#500px = "sgsdfgs"
+#orchid = "sgsdfgs"
 
 [taxonomies]
 author = "authors"

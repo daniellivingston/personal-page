@@ -1,0 +1,45 @@
+
+{{ define "main" }}
+<!-- This defines the homepage for the Hugo website. Specific content is edited in content/_index.md. -->
+
+    <style>
+      .layout-styled {
+        background-color: transparent;
+      }
+    </style>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+
+    <main aria-role="main">
+      <div class="">
+        <p style="font-family: Roboto Mono; font-weight: 700; margin-top: 30px;">computational geometry // computational geophysics //<br/> mesh generation + gis</p>
+      </div>
+
+      <div>
+        <div id="webGlDiv" class="drl-webgl-canvas" />
+      </div>
+
+      <script src="/js/libs/three.js"></script>
+      <script src="/js/homepage.js"></script>
+
+      <!--
+      <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="homepage-content">-->
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <!--
+        {{.Content}}
+      </div>
+      <div>
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "summary"}}
+        {{ end }}
+      </div>
+    -->
+    </main>
+{{ end }}

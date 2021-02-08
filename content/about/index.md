@@ -1,30 +1,18 @@
-+++
-date = "2016-11-05T21:05:33+05:30"
-title = "About"
-+++
+---
+title: About
+---
 
-## Here is some code
+{{< myshortcode subtitle="ok" >}}
 
-```python
-def sometest():
-    while True:
-        print('this is a test')
+### About Me
 
-    return None
+Hi there! I'm Daniel. I was born in the sparse deserts of the southwest 28 years ago, and currently live in Los Alamos, New Mexico.
 
-_ = sometest()
-```
+I specialize in computational geometry and computational (geo)physics.
 
-## Here are other things
+See [Writing](/writing) for my writings on technology, music, philosophy, and other thoughts. See [Projects](/projects) for a list of projects I'm particularily proud of.
 
-* here is
-* a list
+### Contact Me
 
------
-
-> here is a blockquote
-
-| c1 | c2 |
-|----|----|
-| sf | sd |
-
+- Telegram
+- Email

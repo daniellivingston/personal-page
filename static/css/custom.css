@@ -2,6 +2,56 @@
     margin: auto;
 }
 
+.drl-homepage-about {
+
+}
+
+.drl-center {
+  position: relative;
+  top: 50%;
+  left: 50%;
+
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#scene {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.relative {
+    position: relative;
+}
+
+.h-256 {
+    height: 256px;
+}
+
+.w-256 {
+    width: 256px;
+}
+
+.drl-webgl-canvas {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    z-index: -1;
+    position: absolute;
+    top: 0px !important;
+    left: 0px !important;
+    background:rgba(14, 15, 18, 1.0);
+    /*background: #11e8bb;*/ /* Old browsers */
+    /*background: -moz-linear-gradient(top,  #11e8bb 0%, #8200c9 100%);*/ /* FF3.6-15 */
+    /*background: -webkit-linear-gradient(top,  #11e8bb 0%,#8200c9 100%);*/ /* Chrome10-25,Safari5.1-6 */
+    /*background: linear-gradient(to bottom,  #11e8bb 0%,#8200c9 100%);*/ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#11e8bb', endColorstr='#8200c9',GradientType=0 );*/ /* IE6-9 */
+}
+
 .article-hero-subheading {
     font-weight: 500;
     margin-bottom: 0;
@@ -10,10 +60,49 @@
 }
 
 .horizontal-rule {
-    padding-bottom: 6px; 
+    padding-bottom: 6px;
     border-bottom: 1.5px solid var(--horizontalRule);
 }
 
 .article-header {
     text-align: center;
+}
+
+.drl-mono a:hover {
+    color: black;
+    background-color: white;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.drl-mono {
+    margin-left: 2px;
+    font-family: Menlo;
+    font-size: 12;
+}
+
+.section {
+    max-width: 800px;
+}
+
+.footer-social-links a {
+    margin-left: 20px;
+    margin-right: 2px;
+    opacity: 0.5;
+    transition: opacity .3s ease;
+    align-content: center;
+    float: right;
+}
+
+.footer-social-links a:hover {
+    opacity: 1;
+    transition: opacity .3s ease;
+}
+
+.social-icon-outer {
+    min-width: 150px;
+}
+
+.icon-wrapper {
+    margin-left: 18px;
 }

@@ -1,6 +1,6 @@
 ---
-title: This is a test
-subtitle: How a test file became the greatest file ever
+title: On the Current State of Static Site Generators
+subtitle: Or, "so you want to make a website?"
 date: 2019-03-09
 hero: /images/hero-4.jpg
 excerpt: Lorem Ipsum Dolor Si Amet
