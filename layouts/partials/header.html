@@ -29,6 +29,13 @@
         </div>
       </button>
 
+      <button id="resumeButton" class="icon-wrapper" type="button" onclick="location.href='/resume'">
+        {{ partial "icons/ui/projects.html" . }}
+        <div id="toolTipResume" class="tool-tip" >
+          Resumé
+        </div>
+      </button>
+
       <button id="githubButton" class="icon-wrapper" type="button" onclick="location.href='https://github.com/daniellivingston'">
         {{ partial "icons/ui/github-header.html" . }}
         <div id="toolTipGithub" class="tool-tip" >
@@ -67,6 +74,10 @@ document.getElementById("blogButton").addEventListener("mouseover", () => {
 
 document.getElementById("projectsButton").addEventListener("mouseover", () => { 
   displayToolTip("toolTipProjects"); 
+});
+
+document.getElementById("resumeButton").addEventListener("mouseover", () => { 
+  displayToolTip("toolTipResume"); 
 });
 
 document.getElementById("githubButton").addEventListener("mouseover", () => { 

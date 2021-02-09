@@ -2,6 +2,20 @@
     margin: auto;
 }
 
+/* Default style overrides */
+/* ======================= */
+
+.post-content {
+    color: red;
+    padding: 16px 0 16px;
+}
+
+.footer-hr {
+    margin: 50px auto 50px;
+}
+
+/* ======================= */
+
 .drl-homepage-about {
 
 }
@@ -14,6 +28,19 @@
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+.drl-text-border {
+    color: white;
+    text-shadow: 
+        -2px -2px 0 #000,
+        0   -2px 0 #000,
+        2px -2px 0 #000,
+        2px  0   0 #000,
+        2px  2px 0 #000,
+        0    2px 0 #000,
+        -2px 2px 0 #000,
+        -2px  0   0 #000;
 }
 
 #scene {
