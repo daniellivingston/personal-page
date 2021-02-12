@@ -1,19 +1,20 @@
 ---
-title: On the Current State of Static Site Generators
-subtitle: Or, "so you want to make a website?"
-date: 2019-03-09
-hero: /images/hero-4.jpg
-excerpt: Lorem Ipsum Dolor Si Amet
-authors:
-  - Daniel Livingston
-
+title: How I Built This Website
+subtitle: Or, "just stick to SquareSpace"
+date: 2021-02-08
+hero: /images/tex.jpg
+excerpt: Or, "just stick to SquareSpace"
 ---
 
-Lorem est tota propiore conpellat pectoribus de
-pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+Having a personal website blah blah blah.
+
+sdfgdsd
+
+Considerations of theming about: do I want to go [minimalist](#)? Or [over the top](#)? 
+
+To be frank, while this was a great exercise in bootstraping a Markdown-based site, I would recommend Wix or SquareSpace to someone in my shoes. The fact is, precious few people are going to visit your website. Of those, the majority are only going to care about your content - the quality of your writing, the accessibility of your resume. The small few that actually care enough to notice not only your design, but the fact that it's bespoke, is vasnishingly small and will likely do next to nothing for you unless you're in the frontend space. 
+
+`\fin`
 
 1. Exierant elisi ambit vivere dedere
 2. Duce pollice

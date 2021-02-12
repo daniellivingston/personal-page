@@ -36,20 +36,20 @@
         </div>
       </button>
 
+      <!--
       <button id="githubButton" class="icon-wrapper" type="button" onclick="location.href='https://github.com/daniellivingston'">
         {{ partial "icons/ui/github-header.html" . }}
         <div id="toolTipGithub" class="tool-tip" >
             GitHub
         </div>
       </button>
+      -->
 
-    <!--
       <button id="themeColorButton" class="icon-wrapper"> 
         <div id="sunRays" class="sun-rays"></div>
         <div id="moonOrSun" class="moon-or-sun"></div>
         <div id="moonMask" class="moon-mask"></div>
       </button>
-    -->
     </div>
 </div>
 </Section>
@@ -80,9 +80,9 @@ document.getElementById("resumeButton").addEventListener("mouseover", () => {
   displayToolTip("toolTipResume"); 
 });
 
-document.getElementById("githubButton").addEventListener("mouseover", () => { 
-  displayToolTip("toolTipGithub"); 
-});
+//document.getElementById("githubButton").addEventListener("mouseover", () => { 
+//  displayToolTip("toolTipGithub"); 
+//});
 
 function displayToolTip(toolTipID){
     let toolTip = document.getElementById(toolTipID);

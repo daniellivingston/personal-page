@@ -4,6 +4,4 @@ title: Resumé
 type: "overview"
 ---
 
-### TODO
-
-- Make 'embed PDF shortcode'
+{{< embedpdf filename="/pdf/Livingston_CV.pdf" >}}

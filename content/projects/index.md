@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Projects
-type: "overview"
+type: "projects"
 ---
 
 ### TODO

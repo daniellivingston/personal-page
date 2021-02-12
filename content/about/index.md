@@ -4,31 +4,31 @@ title: About
 type: "overview"
 ---
 
-### About Me
+## Biography
+Carleton Coffrin is a staff scientist in Los Alamos National Laboratory’s Advanced Network Science Initiative. His research interests focus on how optimization algorithms can be applied to applications on infrastructure networks. His background spans many forms of optimization including mathematical programing, constraint programming, and local search. Recently Carleton has been exploring online learning via open-online courses and youtube videos as well was novel computing architectures such as, quantum computers, neuromorphic computers and memristors.
 
-Hi there! I'm Daniel. I was born in the sparse deserts of the southwest 28 years ago, and currently live in Los Alamos, New Mexico.
+### Research Interests
+- Optimization
+- Artificial Intelligence
+- Infrastructure Networks
+- Low-level / systems programming (i.e. assembly, shaders)
+- Augmented Reality
 
-I specialize in computational geometry and computational (geo)physics.
+### Personal Interests
+- Guitar playing/recording/performing, especially American folk, Spanish classical, and 1960s prog rock
+- [Mobile photography](#)
+- Oil painting
+- [CrossFit](#sugarwod), [Spartan races](#spartanprofile), and other forms of functional fitness training/competitions
 
-My full [resume is available here](/resume).
+## Find Me Online
 
-See [Writing](/writing) for my writings on technology, music, philosophy, and other thoughts. See [Projects](/projects) for a list of projects I'm particularily proud of.
+`insert thing here`
 
-### Find Me Online
-
-- Email: daniel.livingston@live.com
-- Telegram: @lvngstn
+- ORCHiD: https://orcid.org/0000-0002-0464-5856
+- Instagram: 
 - LinkedIn: 
+- Email: 
 - GitHub: 
-- ORCHiD: 
-- Google Scholar: 
-- Instagram: @liv.ing.ston
-- 500px: 
+- Telegram: 
 
-|  |  |
-|-----|----------|
-| Telegram | asdfasdf |
-| Email | asdfasdf |
-| asd | asdfasdf |
-| asd | asdfasdf |
-| | |
+![](/images/tex.jpg)
