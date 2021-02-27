@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/daniellivingston
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://daniel-livingston.com
+  * I am daniellivingston (https://keybase.io/daniellivingston) on keybase.
+  * I have a public key ASBSwl_YnFonSEnM-9y-h1PDr0wj9-W_HiuiLyNJS3H_7wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012052c25fd89c5a274849ccfbdcbe8753c3af4c23f7e5bf1e2ba22f23494b71ffef0a",
+      "host": "keybase.io",
+      "kid": "012052c25fd89c5a274849ccfbdcbe8753c3af4c23f7e5bf1e2ba22f23494b71ffef0a",
+      "uid": "8f0ea83ddab0a1e46627db0e93b56f19",
+      "username": "daniellivingston"
+    },
+    "merkle_root": {
+      "ctime": 1614414043,
+      "hash": "779ec3afe5ce1edfff382ffa1d510cdb7d7d4f5f9e74b1d6873f9c35d95d89164245ceab3999803d8fa7f57d3c28e3551c0144d6bac10455cb9d4b52d80cdcf7",
+      "hash_meta": "ab0927979bd4854661b5e65691740ba29e77cfa365128c82aeb63140ff3541a4",
+      "seqno": 19236421
+    },
+    "service": {
+      "entropy": "HpVsQ//nZztLI56Hf5pS+/9O",
+      "hostname": "daniel-livingston.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1614414078,
+  "expire_in": 504576000,
+  "prev": "b28c0d45e86ed41d4fa62f6376ff292ac9359040d698fac1ebcdb6489ac52e57",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUsJf2JxaJ0hJzPvcvodTw69MI/flvx4roi8jSUtx/+8Kp3BheWxvYWTESpcCDMQgsowNRehu1B1Ppi9jdv8pKsk1kEDWmPrB6822SJrFLlfEIES0nkSJv0w8V0kSJ4/xTUUv6zHXV80hdexnd8TV9QV2AgHCo3NpZ8RAzIYkbGl5yUxGzBVlRqMuyOgih5T01yKAr86WNrx7VpTlnAHkifku0MGWLHt/lm7wO3SUYaPnZJMbFsuVRLB5DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGkrbC/YGljgbPhEw/uiq2IJ1CVJDG4PwEU6Ft8OMFAqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daniellivingston
+
+==================================================================

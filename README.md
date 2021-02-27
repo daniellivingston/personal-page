@@ -17,6 +17,8 @@ See `netlify.toml` for deployment settings and `config.toml` for Hugo settings.
 
 * [Novela (original theme)](https://github.com/forestryio/hugo-theme-novela)
 
+* https://julian.digital/2020/04/19/airpods-as-a-platform/
+
 * [Paula Rusu (logo font; Sk-Modernist)](http://paularusu.com/)
 
 * Personal Blogs
